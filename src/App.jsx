@@ -1,4 +1,4 @@
-import Starter from "../src/tutorial/06-forms/starter/03-multiple-inputs";
+import Starter from "../src/tutorial/06-forms/starter/05-form-data";
 
 function App() {
   return (
